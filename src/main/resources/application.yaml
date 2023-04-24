@@ -1,0 +1,7 @@
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+    packagesToScan: co.develhope
+    pathsToMatch: /v3/api-docs
+server:
+  port: 1234
